@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $DECIMAL '%x\n'
+echo $((16#$DECIMAL))
