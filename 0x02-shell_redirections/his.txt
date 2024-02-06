@@ -1,0 +1,1000 @@
+ 1002  sudo grep -i memfree .
+ 1003  sudo grep -r Memfree
+ 1004  ls
+ 1005  ls whatsapp-api-tutorial/
+ 1006  wc -l 10 /whatsapp=api-tutorial/DONATE.md
+ 1007  wc -l /whatsapp=api-tutorial/DONATE.md
+ 1008  cd whatsapp-api-tutorial/
+ 1009  wc -l DONATE.md
+ 1010  cd ..
+ 1011  wc -l ./whatsapp=api-tutorial/DONATE.md
+ 1012  wc -l ./whatsapp-api-tutorial/DONATE.md
+ 1013  wc -l /whatsapp-api-tutorial/DONATE.md
+ 1014  head -n 5 /whatsapp-api-tutorial/DONATE.md
+ 1015  sudo apt update
+ 1016  sudo apt upgrade
+ 1017  ls
+ 1018  ls -l /bin | grep user | less
+ 1019  ls -l /bin | grep us | less
+ 1020  ls bin
+ 1021  ls -l bin | grep st | less
+ 1022  ls -l bin | grep s | less
+ 1023  ls bin | grep s | less
+ 1024  sudo apt update
+ 1025  exit
+ 1026  sudo apt update
+ 1027  ls
+ 1028  ls 0x15-file_io
+ 1029  cd 0x15-file_io/
+ 1030  wc 0-read_textfile.c
+ 1031  cat 0-read_textfile.c 
+ 1032  cd -
+ 1033  ls
+ 1034  cd /
+ 1035  cd 0x15-file_io/
+ 1036  cd /
+ 1037  ls bin | grep b | less
+ 1038  cd ~
+ 1039  ls
+ 1040  cd alx-system_engineering-devops/
+ 1041  ls
+ 1042  cd 0x00-shell_basics/
+ 1043  ls
+ 1044  cat 5-listfilesdigitonly 
+ 1045  cat 2-bring_me_home 
+ 1046  cat 9-firstdirdeletion 
+ 1047  cat 4-listmorefiles 
+ 1048  cat 103-commas 
+ 1049  ls -am --file-type
+ 1050  ls -aln
+ 1051  cat 12-file_type 
+ 1052  cd ..
+ 1053  cd /
+ 1054  ls
+ 1055  cd ..
+ 1056  cd -
+ 1057  ls
+ 1058  cd ~
+ 1059  ls
+ 1060  cd alx-low_level_programming/
+ 1061  ls
+ 1062  cd ..
+ 1063  mv 0x02-functions_nested_loops ./alx-low_level_programming
+ 1064  cd alx-low_level_programming/
+ 1065  ls
+ 1066  ls 0x02-functions_nested_loops/
+ 1067  cd ~
+ 1068  ls holberton-system_engineering-devops/
+ 1069  git clone https://github.com/luischaparroc/holbertonschool-low_level_programming.git
+ 1070  ls holbertonschool-low_level_programming/
+ 1071  cd holbertonschool-low_level_programming/0x02-functions_nested_loops/
+ 1072  ls
+ 1073  cp 1* /alx-low_level_programming/0x02-functions_nested_loops
+ 1074  cp 1* ~/alx-low_level_programming/0x02-functions_nested_loops
+ 1075  cd ~/alx-low_level_programming/0x02-functions_nested_loops
+ 1076  ls
+ 1077  cat 102-fibonacci.c 
+ 1078  git add .
+ 1079  git commit -m 'better later than never'
+ 1080  git push
+ 1081  ls
+ 1082  cat 0-putchar.c 
+ 1083  cd holbertonschool-low_level_programming/0x02-functions_nested_loops/
+ 1084  cd /holbertonschool-low_level_programming/0x02-functions_nested_loops/
+ 1085  cd ~/holbertonschool-low_level_programming/0x02-functions_nested_loops/
+ 1086  ls
+ 1087  cat _putchar.c
+ 1088  cd ~/alx-low_level_programming/0x02-functions_nested_loops
+ 1089  ls
+ 1090  cat 0-putchar.c 
+ 1091  vi 0-putchar.c 
+ 1092  git add .
+ 1093  git commit -m 'prints _putchar'
+ 1094  git push
+ 1095  vi 0-putchar.c 
+ 1096  git add .
+ 1097  git commit -m 'prints _putchar'
+ 1098  git push
+ 1099  vi 0-putchar.c 
+ 1100  git add .
+ 1101  git commit -m 'prints _putchar'
+ 1102  git push
+ 1103  vi 0-putchar.c 
+ 1104  git add .
+ 1105  git commit -m 'prints _putchar'
+ 1106  git push
+ 1107  vi 0-putchar.c 
+ 1108  git add .
+ 1109  git commit -m 'prints _putchar'
+ 1110  git push
+ 1111  vi 0-putchar.c 
+ 1112  git add .
+ 1113  git commit -m 'prints _putchar'
+ 1114  git push
+ 1115  ls
+ 1116  cat 1-alphabet.c 
+ 1117  vi 1-alphabet.c 
+ 1118  git add .
+ 1119  git commit -m 'print lowercase alphabet'
+ 1120  git push
+ 1121  vi 1-alphabet.c 
+ 1122  git add .
+ 1123  git commit -m 'print lowercase alphabet'
+ 1124  git push
+ 1125  vi 1-alphabet.c 
+ 1126  git add .
+ 1127  git commit -m 'prints lowercase alphabet'
+ 1128  git push
+ 1129  vi 1-alphabet.c 
+ 1130  git add .
+ 1131  git commit -m 'prints lowercase aplhabet'
+ 1132  git push
+ 1133  vi 1-alphabet.c 
+ 1134  git add .
+ 1135  git commit -m 'prints lowercase aplhabet'
+ 1136  git push
+ 1137  sudo apt update
+ 1138  sudo apt upgrade
+ 1139  ls
+ 1140  ls 0x03-debugging/
+ 1141  echo ?
+ 1142  echo $EXITCODE
+ 1143  mv 0x03-debugging /alx-low_level_programming
+ 1144  mv 0x03-debugging ./alx-low_level_programming
+ 1145  cd alx-low_level_programming
+ 1146  ls
+ 1147  git add .
+ 1148  git commit -m 'debugging is fun'
+ 1149  git push
+ 1150  cd -
+ 1151  ls
+ 1152  ls 0x04-more_functions_nested_loops/
+ 1153  mv 0x04-more_functions_nested_loops ./alx-low_level_programming
+ 1154  cd alx-low_level_programming
+ 1155  ls
+ 1156  git add .
+ 1157  git commit -m 'more nesting and looping'
+ 1158  git push
+ 1159  cd 0x04-more_functions_nested_loops/
+ 1160  ls
+ 1161  vi 0-isupper.c 
+ 1162  git add .
+ 1163  git commit -m 'more looping and nesting'
+ 1164  git push
+ 1165  vi 0-isupper.c 
+ 1166  git add .
+ 1167  git commit -m 'more looping and nesting'
+ 1168  git push
+ 1169  cd ~
+ 1170  https://m4uhd.tv/watch-tvseries-person-of-interest-23921.html
+ 1171  ping https://m4uhd.tv/watch-tvseries-person-of-interest-23921.html
+ 1172  cnn.com
+ 1173  goto cnn.com
+ 1174  w3m cnn.com
+ 1175  sudo apt install w3m
+ 1176  w3m cnn.com
+ 1177  which w3m
+ 1178  w3m wikihow.com
+ 1179  man w3m
+ 1180  w3m nation.com
+ 1181  w3m bbc.com
+ 1182  exit
+ 1183  ls
+ 1184  cd /
+ 1185  ls
+ 1186  ls root
+ 1187  sudo ls root
+ 1188  apt-cache policy gimp
+ 1189  sudo apt install gimp
+ 1190  gimp
+ 1191  vlc
+ 1192  sudo apt install vlc-bin
+ 1193  ls
+ 1194  ls bin | grep B | less
+ 1195  ls bin | grep u | less
+ 1196  sudo apt install vlc-bin
+ 1197  vlc
+ 1198  VLC
+ 1199  vlc
+ 1200  vlc.exe
+ 1201  sudo su
+ 1202  pwd
+ 1203  cd ..
+ 1204  cd -
+ 1205  ls
+ 1206  ls -l
+ 1207  cd /
+ 1208  ls
+ 1209  cd ..
+ 1210  cd ~
+ 1211  ls
+ 1212  cd ..
+ 1213  ls
+ 1214  cd -
+ 1215  cd /
+ 1216  mv W* ~
+ 1217  sudo mv W* ~
+ 1218  sudo mv w* ~
+ 1219  ls
+ 1220  rm -r w*
+ 1221  sudo rm -r w*
+ 1222  ls
+ 1223  cd ~
+ 1224  ls
+ 1225  cd ..
+ 1226  pwd
+ 1227  cd -
+ 1228  cd /
+ 1229  pwd
+ 1230  ls
+ 1231  cd home
+ 1232  ls
+ 1233  cd lucy_wangui/
+ 1234  ls -p
+ 1235  cd /
+ 1236  ls -p
+ 1237  ls -d
+ 1238  sudo su
+ 1239  cat 1-who_am_i 
+ 1240  whoami
+ 1241  cat 2-groups 
+ 1242  groups
+ 1243  cat 3-new_owner 
+ 1244  ls
+ 1245  cat 4-empty 
+ 1246  cat 5-execute 
+ 1247  cat 6-multiple_permissions 
+ 1248  cat 7-everybody 
+ 1249  cat 8-James_Bond 
+ 1250  cat -J
+ 1251  cat 9-J
+ 1252  cat 9-John_Doe 
+ 1253  cat 10-mirror_permissions 
+ 1254  cat 11-directories_permissions 
+ 1255  cat 12-directory_permissions 
+ 1256  man mkdir
+ 1257  cat 13-change_group 
+ 1258  cat 100-change_owner_and_group 
+ 1259  ls
+ 1260  cat 101-symbolic_link_permissions 
+ 1261  man chown
+ 1262  cat 102-if_only 
+ 1263  cat 103-Star_Wars 
+ 1264  cd ~
+ 1265  telnet towel.blinkenlights.nl
+ 1266  cd alx-system_engineering-devops/0x02-shell_redirections/
+ 1267  ls
+ 1268  cat 0-hello_world 
+ 1269  cat 1-confused_smiley 
+ 1270  ./1-confused_smiley 
+ 1271  cat 2-hellofile 
+ 1272  cat 3-twofiles 
+ 1273  cat 4-lastlines 
+ 1274  cat 5-firstlines 
+ 1275  cat 6-third_line 
+ 1276  cat 6-third_line | head -2
+ 1277  cat 6-third_line | head -2 | tail -1
+ 1278  cat README.md 
+ 1279  cat 7-file 
+ 1280  ./7-file
+ 1281  ls
+ 1282  cat 8-cwd_state 
+ 1283  cat 9-duplicate_last_line 
+ 1284  tail -1 8-cwd_state >> 8-cwd_state 
+ 1285  cat 8-cwd_state 
+ 1286  cat 10-no_more_js 
+ 1287  man find
+ 1288  find . -type f -name 
+ 1289  find . -type f -name "_"
+ 1290  find . -type f -name *_
+ 1291  find . -type f -name *1
+ 1292  ls
+ 1293  find . 1*
+ 1294  ls
+ 1295  cat 11-directories 
+ 1296  ./11-directories 
+ 1297  cat 12-newest_files 
+ 1298  ./12-newest_files 
+ 1299  cat 13-unique 
+ 1300  ./13-unique 
+ 1301  cat 14-findthatword 
+ 1302  ./14-findthatword 
+ 1303  cat 15-countthatword 
+ 1304  ./15-countthatword 
+ 1305  ma grep
+ 1306  man grep
+ 1307  grep -v bin /etc/passwd
+ 1308  grep -cv bin /etc/passwd
+ 1309  grep -vc bin /etc/passwd
+ 1310  grep -c bin /etc/passwd
+ 1311  ls
+ 1312  cat 16-whatsnext 
+ 1313  ./16-whatsnext 
+ 1314  cat 17-hidethisword 
+ 1315  chmod u+x 17-hidethisword 
+ 1316  ls
+ 1317  ./17-hidethisword 
+ 1318  ls
+ 1319  grep bin /etc/bin
+ 1320  grep bin /etc/passwd
+ 1321  grep -V bin /etc/passwd
+ 1322  cat 17-hidethisword 
+ 1323  grep -v bin /etc/passwd
+ 1324  ls
+ 1325  cat 18-letteronly 
+ 1326  grep . [0-9]
+ 1327  grep [0-9] .
+ 1328  grep [0-9]* .
+ 1329  grep [0-9]* ./
+ 1330  grep -i [0-9]* ./
+ 1331  man grep
+ 1332  grep ^[0-9] ./
+ 1333  grep "^[0-9]" ./
+ 1334  find . -f [0-9]*
+ 1335  find . -file -name [0-9]*
+ 1336  cat 19-AZ 
+ 1337  cat 20-hiago 
+ 1338  cat 21-reverse 
+ 1339  cat 22-users_and_homes 
+ 1340  ./22-users_and_homes 
+ 1341  ls
+ 1342  cat 100-empty_casks 
+ 1343  cat 22-users_and_homes 
+ 1344  cat 101-gifs 
+ 1345  cat 102-acrostic 
+ 1346  cat 103-the_biggest_fan 
+ 1347  ls
+ 1348  cd alx-low_level_programming/
+ 1349  pwd
+ 1350  ls
+ 1351  cd ~/alx-system_engineering-devops/
+ 1352  ls
+ 1353  cd 0x00-shell_basics/
+ 1354  ls
+ 1355  cat 1-listit 
+ 1356  cat 2-bring_me_home 
+ 1357  cd
+ 1358  cd -
+ 1359  ls
+ 1360  cat 3-listfiles 
+ 1361  cat 4-listmorefiles 
+ 1362  cat 5-listfilesdigitonly 
+ 1363  ls -aln
+ 1364  ls -al
+ 1365  ls -aln
+ 1366  ls
+ 1367  cat 6-firstdirectory 
+ 1368  cat 7-movethatfile 
+ 1369  cat 8-firstdelete 
+ 1370  cat 9-firstdirdeletion 
+ 1371  cat 10-back 
+ 1372  cat 11-lists 
+ 1373  ls -la . .. /boot
+ 1374  ls
+ 1375  cat 12-file_type 
+ 1376  file /tmp/share
+ 1377  ls /tmp
+ 1378  file /tmp/serve-7165d7d9.sh 
+ 1379  cat /tmp/serve-7165d7d9.sh 
+ 1380  ls
+ 1381  cat 13-symbolic_link 
+ 1382  man ln
+ 1383  cat 14-copy_html 
+ 1384  cat 100-lets_move 
+ 1385  man mv
+ 1386  cd ~
+ 1387  ls [[:upper:]]*
+ 1388  ls [[:upper:]]* \
+ 1389  cd -
+ 1390  cat 101-clean_emacs 
+ 1391  cat 102-tree 
+ 1392  man mkdir
+ 1393  ls
+ 1394  cat 103-commas 
+ 1395  cd ~
+ 1396  ls -am --file-type
+ 1397  man ls
+ 1398  cd -
+ 1399  ls
+ 1400  cat school.mgc 
+ 1401  man file
+ 1402  ls
+ 1403  cd .
+ 1404  cd ..
+ 1405  ls
+ 1406  cd -
+ 1407  cd 0x01-shell_permissions
+ 1408  cd ../0x01-shell_permissions
+ 1409  ls
+ 1410  cat 0-iam_betty 
+ 1411  sudo su
+ 1412  uptime
+ 1413  ls
+ 1414  mv 0x05-pointers_arrays_strings ./alx-low_level_programming/
+ 1415  cd alx-low_level_programming/0x05-pointers_arrays_strings/
+ 1416  ls
+ 1417  git add .
+ 1418  git commit -m 'pointers arrays & strings'
+ 1419  git push
+ 1420  cd -
+ 1421  ls
+ 1422  clear
+ 1423  ls
+ 1424  ls holbertonschool-low_level_programming/
+ 1425  cd holbertonschool-low_level_programming/0x05-pointers_arrays_strings/
+ 1426  ls
+ 1427  cat 100-atoi.c 
+ 1428  cat holberton.h 
+ 1429  cd -
+ 1430  clear
+ 1431  cd alx-low_level_programming/0x05-pointers_arrays_strings/
+ 1432  ls
+ 1433  cat main.h 
+ 1434  cd ~
+ 1435  pwd
+ 1436  exit
+ 1437  sudo apt update && sudo apt upgrade
+ 1438  cd ~
+ 1439  pwd
+ 1440  sudo adduser the-jonzi
+ 1441  cd -
+ 1442  cd ?
+ 1443  cd /
+ 1444  cd home
+ 1445  ls
+ 1446  cd lucy_wangui/
+ 1447  ls
+ 1448  mv 0x06-pointers_arrays_strings ./alx-low_level_programming
+ 1449  cd alx-low_level_programming/0x06-pointers_arrays_strings/
+ 1450  ls
+ 1451  git add .
+ 1452  git commit -m 'more pointers arrays strings'
+ 1453  git push
+ 1454  Cd -
+ 1455  cd -
+ 1456  exit
+ 1457  sudo apt update
+ 1458  sudo adduser _mwanahalisi
+ 1459  sudo adduser --force-badname _mwanahalisi
+ 1460  pwd
+ 1461  cd /
+ 1462  ls
+ 1463  ls home
+ 1464  su _mwanahalisi
+ 1465  exit
+ 1466  ls
+ 1467  cd holbertonschool-low_level_programming/
+ 1468  ls
+ 1469  ls 0x06-pointers_arrays_strings/
+ 1470  cd 0x06-pointers_arrays_strings/
+ 1471  ls
+ 1472  cp 102-infinite_add.c 103-print_buffer.c 101-magic.c ~/alx-low_level_programming/0x06-pointers_arrays_strings/
+ 1473  cd ~
+ 1474  ls
+ 1475  cd alx-low_level_programming/0x06-pointers_arrays_strings/
+ 1476  ls
+ 1477  mv 101-magic.c 102-magic.c
+ 1478  ls
+ 1479  mv 102-infinite_add.c 103-infinite_add.c
+ 1480  ls
+ 1481  cat 102-magic.c 
+ 1482  cat 103-infinite_add.c 
+ 1483  vi 103-infinite_add.c 
+ 1484  ls
+ 1485  cat 104-print_buffer.c 
+ 1486  vi 104-print_buffer.c 
+ 1487  git add .
+ 1488  git commit -m 'more strings and pointers'
+ 1489  git push 
+ 1490  exit
+ 1491  sudo apt update && sudo apt upgrade
+ 1492  su _mwanahalisi
+ 1493  sudo apt update && sudo apt upgrade
+ 1494  ls
+ 1495  mv 0x07-pointers_arrays_strings ./alx-low_level_programming
+ 1496  cd alx-low_level_programming/
+ 1497  cd 0x07-pointers_arrays_strings/
+ 1498  ls
+ 1499  git add .
+ 1500  git commit -m 'more pointers'
+ 1501  git push
+ 1502  exit
+ 1503  clear
+ 1504  ls
+ 1505  mv 0x08-recursion ./alx-low_level_programming
+ 1506  cd alx-low_level_programming/0x08-recursion
+ 1507  ls
+ 1508  git add .
+ 1509  git commit -m 'recursion week'
+ 1510  git push
+ 1511  clear
+ 1512  exit
+ 1513  ls
+ 1514  cd alx-low_level_programming/
+ 1515  exit
+ 1516  ls
+ 1517  ls 0x09-static_libraries/
+ 1518  mv 0x09-static_libraries ./alx-low_level_programming
+ 1519  cd alx-low_level_programming/0x09-static_libraries
+ 1520  git add .
+ 1521  git commit -m 'static libraries'
+ 1522  git push
+ 1523  cd -
+ 1524  ls
+ 1525  mv 0x0A-argc_argv ./alx-low_level_programming
+ 1526  cd alx-low_level_programming/0x0A-argc_argv
+ 1527  ls
+ 1528  git add .
+ 1529  git commit -m 'what is argv?'
+ 1530  git push
+ 1531  exit
+ 1532  sudo apt update
+ 1533  sudo apt upgrade
+ 1534  ls
+ 1535  mv 0x0C-more_malloc_free ./alx-low_level_programming
+ 1536  ls
+ 1537  cd alx-low_level_programming/0x0C-more_malloc_free/
+ 1538  git add .
+ 1539  git commit -m 'malloc it'
+ 1540  git push
+ 1541  exit
+ 1542  ls
+ 1543  mv 0x0B-malloc_free ./alx-low_level_programming
+ 1544  cd alx-low_level_programming/0x0B-malloc_free/
+ 1545  ls
+ 1546  git add .
+ 1547  git commit -m 'a malloc day'
+ 1548  git push
+ 1549  exit
+ 1550  sudo apt update
+ 1551  sudo apt upgrade
+ 1552  ls
+ 1553  mv 0x0E-structures_typedef ./alx-low_level_programming
+ 1554  cd alx-low_level_programming/0x0E-structures_typedef
+ 1555  ls
+ 1556  git add .
+ 1557  git commit -m 'structure is king'
+ 1558  git push
+ 1559  cd -
+ 1560  ls
+ 1561  mv 0x0D-preprocessor ./alx-low_level_programming
+ 1562  cd alx-low_level_programming/0x0D-preprocessor
+ 1563  ls
+ 1564  git add .
+ 1565  git commit -m 'preprocess is the beginning'
+ 1566  git push
+ 1567  exit
+ 1568  ls
+ 1569  mv 0x0F-function_pointers ./alx-low_level_programming
+ 1570  cd alx-low_level_programming/0x0F-function_pointers/
+ 1571  ls
+ 1572  git add .
+ 1573  git commit -m 'function pointers'
+ 1574  git push
+ 1575  exit
+ 1576  ls
+ 1577  mv 0x10-variadic_functions ./alx-low_level_programming/
+ 1578  cd alx-low_level_programming/0x10-variadic_functions/
+ 1579  ls
+ 1580  git add .
+ 1581  git commit -m 'variadic functions'
+ 1582  git push
+ 1583  exit
+ 1584  ls
+ 1585  cd drive-download-20230127T041613Z-001/
+ 1586  ls
+ 1587  exit
+ 1588  ls
+ 1589  cd drive-download-20230127T041613Z-001/
+ 1590  ls
+ 1591  grep *.txt waste
+ 1592  grep waste *.txt
+ 1593  grep 'waste disposal' *.txt
+ 1594  grep incinera *.txt
+ 1595  cd WhatsApp Chat with Real PR and Politics(2).txt
+ 1596  cat WhatsApp Chat with Real PR and Politics(2).txt
+ 1597  ls
+ 1598  grep incinera *.txt
+ 1599  grep dispose *.txt
+ 1600  grep unep *.txt
+ 1601  grep .org *.txt
+ 1602  grep 'ISO certified' *.txt
+ 1603  grep 'waste incineration' *.tx
+ 1604  grep 'waste incineration' *.txt
+ 1605  grep 'waste disposal' *.txt
+ 1606  grep daadab *.txt
+ 1607  grep kakuma *.txt
+ 1608  grep refugee *.txt
+ 1609  grep incinerator *.txt
+ 1610  grep +254 721 521055 && tender *.txt
+ 1611  grep '+254 721 521055' && 'tender' *.txt
+ 1612  grep 'tender' *.txt
+ 1613  exit
+ 1614  sudo apt update
+ 1615  sudo apt upgrade
+ 1616  ls
+ 1617  cd alx-pre_course/
+ 1618  ls
+ 1619  git push
+ 1620  git add .
+ 1621  git commit -m 'my first commit'
+ 1622  mkdir 0x03-git
+ 1623  ls
+ 1624  git status
+ 1625  git add .
+ 1626  git commit -m 'my first commit'
+ 1627  git reset
+ 1628  git add .
+ 1629  git commit -m 'my first commit'
+ 1630  cd 0x03-git/
+ 1631  echo "my first time" > textfile1
+ 1632  ls
+ 1633  git add .
+ 1634  git commit -m 'my first commit'
+ 1635  git push
+ 1636  git push -F
+ 1637  git push -f
+ 1638  cd ..
+ 1639  ls
+ 1640  cd 0x01-git/
+ 1641  ls
+ 1642  ls bash
+ 1643  ls c
+ 1644  cd ..
+ 1645  git pull
+ 1646  cd 0x01-git/
+ 1647  mkdir js
+ 1648  touch js/main.js
+ 1649  touch js/index.js
+ 1650  cat bash/alx
+ 1651  vi bash/alx
+ 1652  cat bash/school
+ 1653  git add .
+ 1654  git commit -m 'on git grind again'
+ 1655  git push
+ 1656  cd ..
+ 1657  ls
+ 1658  git switch
+ 1659  git status
+ 1660  git checkout
+ 1661  git branch update_script
+ 1662  git checkout
+ 1663  git checkout update_script
+ 1664  ls
+ 1665  cd 0x01-git/
+ 1666  ls
+ 1667  touch bash/98
+ 1668  vi bash/alx
+ 1669  vi bash/school
+ 1670  git add .
+ 1671  git commit -m 'My personal work'
+ 1672  git push
+ 1673  git pull
+ 1674  git checkout main
+ 1675  git checkout master
+ 1676  git checkout update_script
+ 1677  git pull origin master
+ 1678  git add .
+ 1679  git commit -m 'My personal work'
+ 1680  git push
+ 1681  git pull origin update_script
+ 1682  git push -f
+ 1683  git checkout master
+ 1684  vi bash/alx
+ 1685  ls
+ 1686  rm js
+ 1687  rm -r js
+ 1688  ls
+ 1689  git add .
+ 1690  git commit -m 'Hot fix'
+ 1691  git push
+ 1692  git merge
+ 1693  git checkout master
+ 1694  vi bash/school
+ 1695  git add .
+ 1696  git commit -m 'got that merge conflict'
+ 1697  git push
+ 1698  exit
+ 1699  sudo apt updates
+ 1700  sudo apt update
+ 1701  sudo apt upgrade
+ 1702  gimp
+ 1703  apt-cache policy gimp
+ 1704  exit
+ 1705  sudo su
+ 1706  pwd
+ 1707  ls
+ 1708  ls -a
+ 1709  ls -al --author
+ 1710  ls -al
+ 1711  ls -l
+ 1712  ls --author
+ 1713  man ls
+ 1714  mkdir pewee
+ 1715  cd pewee
+ 1716  touch w, e, r, t, h
+ 1717  ls
+ 1718  touch g j k l
+ 1719  ls
+ 1720  rm -iv g
+ 1721  rm -iv h j
+ 1722  cd ..
+ 1723  pwd
+ 1724  rm -r -iv pewee
+ 1725  cd ../..
+ 1726  pwd
+ 1727  ls
+ 1728  cd home
+ 1729  ls
+ 1730  cd lucy_wangui/
+ 1731  pwd
+ 1732  cd ../the-jonzi/
+ 1733  ls
+ 1734  cd ..
+ 1735  cd lucy_wangui/
+ 1736  cd ../..
+ 1737  cd ~
+ 1738  pwd
+ 1739  ls -p
+ 1740  ls -s
+ 1741  su the-jonzi
+ 1742  whoami
+ 1743  lsof
+ 1744  lsof -u lucy_wangui
+ 1745  lsof -u root
+ 1746  id
+ 1747  id -g lucy_wangui
+ 1748  id -g
+ 1749  pushd alx-low_level_programming/
+ 1750  popd
+ 1751  apt-cache policy Htop
+ 1752  apt-cache policy htop
+ 1753  history
+ 1754  whoami
+ 1755  ls
+ 1756  cmatrix
+ 1757  sudo apt install cmatrix
+ 1758  cmatrix
+ 1759  ls
+ 1760  exit
+ 1761  ls
+ 1762  ls-p
+ 1763  ls -p
+ 1764  ls
+ 1765  apt-cache policy google-chrome
+ 1766  apt-cache policy chrome
+ 1767  apt-cache policy googlechrome
+ 1768  apt-cache policy google chrome
+ 1769  apt-cache policy google_chrome
+ 1770  sudo apt update
+ 1771  sudo apt upgrade
+ 1772  ls
+ 1773  find . -type f -iname "*.js"
+ 1774  find . -type f -iname "*.c"
+ 1775  find . -type f -not -iname "*.c"
+ 1776  find . -type f -iname "*.md"
+ 1777  find . -type f -iname "*.conf"
+ 1778  find . -maxdepth 1 -type f -not -iname "*.c"
+ 1779  find . -maxdepth 2 -type f -not -iname "*.c"
+ 1780  ls -ap
+ 1781  ls
+ 1782  cd drive-download-20230127T041613Z-001/
+ 1783  ls
+ 1784  grep "incinerate" -i -n "*.txt"
+ 1785  grep -i -n incinerate *.txt
+ 1786  grep -i -n 'waste disposal' *.txt
+ 1787  grep 'waste disposal' ./*
+ 1788  grep waste ./*
+ 1789  top
+ 1790  ps aux
+ 1791  cd ..
+ 1792  nano file.txt
+ 1793  ls -l
+ 1794  sudo chown user:user whatsapp-bulk-messenger/
+ 1795  sudo chown lucy_wangui:lucy_wangui whatsapp-bulk-messenger/
+ 1796  ls -l
+ 1797  sudo chown lucy_wangui:lucy_wangui WhatsAppBulkMessenger
+ 1798  ls -l
+ 1799  whoami
+ 1800  su bash
+ 1801  sudo bash
+ 1802  exit
+ 1803  ls
+ 1804  mv 9023929a-0914-4b0b-8690-26b3b4751d3c.list\:Zone.Identifier whatupchat_rpr_pouvoir
+ 1805  ls
+ 1806  mv 'whatsappchat RPR_pouvoir.list' whatsappchat-RPR_pouvoir
+ 1807  ls
+ 1808  grep scab whatsappchat-RPR_pouvoir 
+ 1809  grep incinerator whatsappchat-RPR_pouvoir 
+ 1810  grep 'waste disposal' whatsappchat-RPR_pouvoir 
+ 1811  grep 'waste' 'tender' whatsappchat-RPR_pouvoir 
+ 1812  grep 'solid waste' whatsappchat-RPR_pouvoir 
+ 1813  grep 'un tender' whatsappchat-RPR_pouvoir 
+ 1814  grep 'waste tender' whatsappchat-RPR_pouvoir 
+ 1815  grep waste + tender whatsappchat-RPR_pouvoir 
+ 1816  grep waste+tender whatsappchat-RPR_pouvoir 
+ 1817  grep waste && tender whatsappchat-RPR_pouvoir 
+ 1818  exit
+ 1819  echo $HISTLIST
+ 1820  echo $HISTSIZE
+ 1821  ls
+ 1822  cd /
+ 1823  ls
+ 1824  type hello-word
+ 1825  hello-world
+ 1826  cat hello-world
+ 1827  cd ~
+ 1828  which type
+ 1829  which cd
+ 1830  which history
+ 1831  which ls
+ 1832  cal 1973
+ 1833  alias mycal="cal 1973"
+ 1834  mycal
+ 1835  ls
+ 1836  cd alx-system_engineering-devops/0x01-shell_permissions/
+ 1837  ls
+ 1838  cat 11-directories_permissions 
+ 1839  ls -l
+ 1840  cd ..
+ 1841  ls -l
+ 1842  cd -
+ 1843  ls
+ 1844  vi 11-directories_permissions 
+ 1845  cd ..
+ 1846  ls
+ 1847  ls -l
+ 1848  chmod g+w ./d*
+ 1849  chmod g+w ./*dir
+ 1850  chmod g+w ./*.dir
+ 1851  chmod g+w ./dir*
+ 1852  chmod g+w ./
+ 1853  ls -l
+ 1854  cd ..
+ 1855  ls 
+ 1856  cd holberton-system_engineering-devops/
+ 1857  ls
+ 1858  cd 0x01-shell_permissions/
+ 1859  ls
+ 1860  cat 11-directories_permissions 
+ 1861  cd ../..
+ 1862  cd alx-system_engineering-devops/0x01-shell_permissions/
+ 1863  ls
+ 1864  vi 11-directories_permissions 
+ 1865  cd ..
+ 1866  ls -l
+ 1867  find . -type d -exec chmod g+w
+ 1868  find . -type d -exec chmod 775
+ 1869  find . -type d -exec sudo chmod g+w
+ 1870  find . -type d -exec sudo chmod g+w {} +
+ 1871  find . -type d -exec chmod g+w {} +
+ 1872  ls -l
+ 1873  ls
+ 1874  cd 0x01-shell_permissions/
+ 1875  ls
+ 1876  vi 11-directories_permissions 
+ 1877  git add .
+ 1878  git commit -m 'find + chmod'
+ 1879  git push
+ 1880  cd holberton-system_engineering-devops/
+ 1881  cd ~/holberton-system_engineering-devops/
+ 1882  cd 0x01-shell_permissions/
+ 1883  ls
+ 1884  vi 11-directories_permissions 
+ 1885  cd -
+ 1886  cd ..
+ 1887  cd alx-system_engineering-devops/0x01-shell_permissions/
+ 1888  vi 11-directories_permissions 
+ 1889  git add .
+ 1890  git commit -m 'find + chmod'
+ 1891  git push
+ 1892  vi 11-directories_permissions 
+ 1893  git add .
+ 1894  git commit -m 'find + chmod'
+ 1895  git push
+ 1896  cd ~/holberton-system_engineering-devops/
+ 1897  cd 0x01-shell_permissions/
+ 1898  vi 11-directories_permissions 
+ 1899  cd ~
+ 1900  cd alx-system_engineering-devops/0x01-shell_permissions/
+ 1901  vi 11-directories_permissions 
+ 1902  git add .
+ 1903  git commit -m 'find + chmod'
+ 1904  git push
+ 1905  cd ~
+ 1906  uname
+ 1907  uname -n
+ 1908  alias
+ 1909  ech `$PATH`
+ 1910  echo `$PATH`
+ 1911  type vlc
+ 1912  vlc
+ 1913  echo $path && echo jones
+ 1914  false && echo jones
+ 1915  whch echo && echo jones
+ 1916  echo $HOME
+ 1917  which $HOME
+ 1918  which HOME
+ 1919  find . -type f
+ 1920  find . -type f -size +1mb
+ 1921  find . -type f -size +1m
+ 1922  man find
+ 1923  find . -type f -size +1M
+ 1924  exit
+ 1925  sudo apt update && sudo apt upgrade
+ 1926  man type
+ 1927  man grep
+ 1928  man -f grep
+ 1929  man -f sort
+ 1930  man -f less
+ 1931  man -f zed
+ 1932  man -f apt
+ 1933  man -f true
+ 1934  man -f false
+ 1935  man -fv tail
+ 1936  man -f tail
+ 1937  whatis sort
+ 1938  apropos grep
+ 1939  apropos search
+ 1940  apropos scripting
+ 1941  apropos function
+ 1942  locate chrome
+ 1943  sudo locate chrome
+ 1944  sudo apt install mlocate
+ 1945  locate -cb passwd
+ 1946  locate -cbi whatsapp
+ 1947  info locate
+ 1948  man pwd
+ 1949  man grep
+ 1950  info grep
+ 1951  info
+ 1952  man cat
+ 1953  info cat
+ 1954  cat --help
+ 1955  info -f cat
+ 1956  info -f man
+ 1957  man -f cat
+ 1958  man date
+ 1959  info date
+ 1960  ls usr/share/doc
+ 1961  sudo ls /usr/share/doc
+ 1962  whatis htop
+ 1963  man -f htop
+ 1964  apropos htop
+ 1965  whatis libflac8
+ 1966  whatis libnss3
+ 1967  whatis gpg
+ 1968  help info
+ 1969  info -q
+ 1970  info info
+ 1971  info
+ 1972  whatis grep
+ 1973  whatis passwd
+ 1974  exit
+ 1975  sudo apt update
+ 1976  whatis wc
+ 1977  wc hist.txt 
+ 1978  apropos wc
+ 1979  which wc
+ 1980  whatis du
+ 1981  whatis sed
+ 1982  ls
+ 1983  cd 0x02-shell_redirections/
+ 1984  ls
+ 1985  cat 0-hello_world 
+ 1986  cd ../alx-system_engineering-devops/
+ 1987  ls
+ 1988  cd 0x02-shell_redirections/
+ 1989  ls
+ 1990  cat 1-confused_smiley 
+ 1991  echo ""(Oo)'"
+ 1992  "\"(Oo)'"
+ 1993  echo "\"(Oo)'"
+ 1994  cat 2-hellofile 
+ 1995  ls
+ 1996  cat 3-twofiles 
+ 1997  cat 4-lastlines 
+ 1998  cat 5-firstlines 
+ 1999  cat 6-third_line 
+ 2000  cat anti-code 
+ 2001  history > his.txt

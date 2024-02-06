@@ -1,0 +1,28 @@
+0-hello_world:echo "Hello, World"
+1-confused_smiley:echo "\"(Ôo)'"
+10-no_more_js:find . -type f -name "*.js" -delete
+100-empty_casks:find . -empty | rev | cut -d '/' -f 1 | rev
+101-gifs:find -type f -name "*.gif" | rev | cut -d "/" -f 1 | cut -d '.' -f 2- | rev | LC_ALL=C sort -f
+102-acrostic:cut -c 1 | paste -s -d ''
+103-the_biggest_fan:tail -n +2 | cut -f -1 | sort -k 1 | uniq -c | sort -rnk 1 | head -n 11 | rev | cut -d ' ' -f -1 | rev
+11-directories:find . -type d -not -name . | wc -l
+12-newest_files:ls -t | head -10
+13-unique:sort | uniq -u
+14-findthatword:grep root /etc/passwd
+15-countthatword:grep -c bin /etc/passwd
+16-whatsnext:grep -A 3 root /etc/passwd
+17-hidethisword:grep -v bin /etc/passwd
+18-letteronly:grep -i "^[a-z]" /etc/ssh/sshd_config
+19-AZ:tr Ac Ze
+2-hellofile:cat /etc/passwd
+20-hiago:tr -d cC
+21-reverse:rev
+22-users_and_homes:cut -d : -f 1,6 /etc/passwd | sort
+3-twofiles:cat /etc/passwd /etc/hosts
+4-lastlines:tail /etc/passwd
+5-firstlines:head /etc/passwd
+6-third_line:cat iacta | head -3 | tail -1
+7-file:echo "Best School" > \\\*\\\\"'\"Best School\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
+8-cwd_state:ls -la > ls_cwd_content
+8-cwd_state:ls -la > ls_cwd_content
+9-duplicate_last_line:tail -1 iacta >> iacta

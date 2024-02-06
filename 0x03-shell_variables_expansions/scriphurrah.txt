@@ -1,0 +1,18 @@
+0-alias:alias ls="rm *"
+1-hello_you:echo "hello $USER"
+10-love_exponent_breath:echo $(($BREATH**$LOVE))
+100-decimal_to_hexadecimal:printf "%x\n" $DECIMAL
+101-rot13:tr "A-Ma-mN-Zn-z" "N-Zn-zA-Ma-m"
+102-odd:paste - - | cut -f1
+103-water_and_stir:printf "%o\n" $(($((5#$(echo $WATER | tr water 01234))) + $((5#$(echo $STIR | tr stir. 01234))) )) | tr 01234567 bestchol 
+11-binary_to_decimal:echo $((2#$BINARY))
+12-combinations:echo {a..z}{a..z} | tr " " "\n" | grep -v "oo"
+13-print_float:printf "%.2f" $NUM | sort
+2-path:export PATH=$PATH:/action
+3-paths:echo $((`echo $PATH | grep -o ":/" | wc -l`+ 1))
+4-global_variables:printenv
+5-local_variables:set
+6-create_local_variable:BEST=School
+7-create_global_variable:export BEST=School
+8-true_knowledge:echo $(($TRUEKNOWLEDGE + 128))
+9-divide_and_rule:echo $(($POWER / $DIVIDE))
